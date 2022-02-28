@@ -46,4 +46,3 @@ let etapas = [
         ]
     }
 ];
-console.log(etapas)
